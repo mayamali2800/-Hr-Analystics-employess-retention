@@ -61,6 +61,10 @@ This KPI is to find out the relation the between Job role vs Work Life Balance.
 
   # snapshot of Dashboard
 
+  ![Screenshot 2024-04-24 154640](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/ffaff91b-2ca1-4734-b9ae-135b30c418dc)
+
+ ![Screenshot 2024-04-24 154746](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/29733660-9441-4731-9ce7-3b8554683ddd)
+
   # Conclusion
 - ### Conduct stay interviews: 
   Instead of exit interviews, conduct stay interviews with employees to gather feedback about the job.
@@ -70,7 +74,7 @@ This KPI is to find out the relation the between Job role vs Work Life Balance.
   Ensure employees have manageable workloads by regularly monitoring and adjusting workloads to prevent burnout and  overwhelm.
 - ### Create a positive work environment: 
   Foster a positive work environment by promoting a culture of respect, inclusivity, and teamwork. Encourage open communication and collaboration among employees.
--### Address pay and compensation issues: 
+- ### Address pay and compensation issues: 
   Ensure that employees receive fair pay and compensation for their work and to find out what motivates an employee to continue to work in an organization.
 
   
