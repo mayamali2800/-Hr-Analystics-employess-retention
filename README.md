@@ -35,7 +35,8 @@ From this calculation and visualization we concluded that we must make strong st
 ## KPI 2-Average hourly rate of Male Research Scientist 
 This KPI is to find out the average hourly rate of male research scientists which is 114.45.
 
-![image](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/fac38347-b8a0-4d83-8d7b-6aff0ba75c70)
+![Screenshot 2024-04-24 152923](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/95296dab-4a51-46a0-9256-86ec47e7d1bd)
+
 
 ## KPI 3 Attrition rate Vs Monthly Income stats 
 This KPI is to find out the relation the between monthly income and Attrition rate.
@@ -47,7 +48,8 @@ Based on our analysis and visualization, it is evident that the Hardware Departm
 ## KPI 4 - Average working years for each Department
 This KPI is to find out the relation the between Working Years vs Each Department
 
-![image](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/617f84f4-022a-4055-ac21-da2edeb77eed)
+![Screenshot 2024-04-24 152953](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/7de3e3ca-d1ac-45bd-87fa-de8dd160b54a)
+
 ### Insights for KPI 4
 - From this we can see the average working years in software department is high as compared to the rest of the departments and lowest is for Research & Development Department.
 - From the analysis we can conclude that average working years is approximately 20 for all the departments.
@@ -55,7 +57,7 @@ This KPI is to find out the relation the between Working Years vs Each Departmen
   ## KPI 5-Job role Vs Work life balance
 This KPI is to find out the relation the between Job role vs Work Life Balance. 
 
-![image](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/c7075e5b-710d-46d2-a68b-b12024e3183f)
+![Screenshot 2024-04-24 152939](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/e1c7c55b-e140-4de8-9a13-aacc4f994df4)
 
 ### Insights for KPI 5
 - For Research directors and the laboratory technicians the work life balance is poor. 
