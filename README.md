@@ -33,7 +33,7 @@ We can clearly say that attrition rate of employees for every department is almo
 From this calculation and visualization we concluded that we must make strong strategies to minimize attrition rate and improve our company’s Employee retention so that we can balance the company’s growth and right talent.
 
 ## KPI 2-Average hourly rate of Male Research Scientist 
-This KPI is to find out the average hourly rate of male research scientists which is 114.45.
+This KPI is to find out the average hourly rate of male research scientists which is 115.16.
 
 ![Screenshot 2024-04-24 152923](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/95296dab-4a51-46a0-9256-86ec47e7d1bd)
 
@@ -58,12 +58,6 @@ This KPI is to find out the relation the between Working Years vs Each Departmen
 This KPI is to find out the relation the between Job role vs Work Life Balance. 
 
 ![Screenshot 2024-04-24 152939](https://github.com/mayamali2800/-Hr-Analystics-employess-retention/assets/167747762/e1c7c55b-e140-4de8-9a13-aacc4f994df4)
-
-### Insights for KPI 5
-- For Research directors and the laboratory technicians the work life balance is poor. 
-- For the Sales representatives , managers , Manufacturing Directors and the Sales executives the work life balance is fair.
-- For Research Scientists , Healthcare representatives und Developers the work life balance is good.
-- For human resources the work life balance is excellent.
 
   # snapshot of Dashboard
 
